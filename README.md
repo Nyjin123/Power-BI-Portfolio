@@ -10,10 +10,11 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 * Key Features:* Row-Level Security (RLS), What-If parameters, automated refreshes, custom visual tooltips, and hidden drill-through pages.
 * Core Insight:* Revealed heavy product concentration risk, with DC Valves driving over 86% ($202B+) of total sales revenue.
 
-![Hydraulic Home Page](./Hydraulic%20Home%20Page.png)
-![Hydraulic Executive Analysis](./Hydraulic%20Executive%20Analysis.png)
-![Hydraulic Operation Analysis](./Hydraulic%20Operation%20Analysis.png)
-
+<img src="Hydraulic Home Page.png" alt="Hydraulic Home Page" width="100%" />
+<br/><br/>
+<img src="Hydraulic Executive Analysis.png" alt="Hydraulic Executive Analysis" width="100%" />
+<br/><br/>
+<img src="Hydraulic Operation Analysis.png" alt="Hydraulic Operation Analysis" width="100%" />
 
 ---
 
@@ -23,8 +24,10 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 * Key Features: External weather tracking, target gauges, waterfall profit distribution, and competitor price benchmarking.
 * Core Insight: Analyzed weather patterns against regional sales to help optimize seasonal inventory allocation.
 
-![Retailmart Home Page](./Retailmart%20Home%20Page.png)
-![Retailmart Executive Analysis](./Retailmart%20Executive%20Analysis.png)
+<img src="Retailmart Home Page.png" alt="Retailmart Home Page" width="100%" />
+<br/><br/>
+<img src="Retailmart Executive Analysis.png" alt="Retailmart Executive Analysis" width="100%" />
+<br/><br/>
 <img src="Retailmart Sales Analysis.png" alt="Retailmart Sales Analysis" width="100%" />
 
 ---
