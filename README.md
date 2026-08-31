@@ -6,9 +6,12 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 
 ## Project 1: Hydraulic Sales Analysis
 
-* Dataset: 230,000+ sales records.
-* Key Features: Row-Level Security (RLS), What-If parameters, automated refreshes, custom visual tooltips, and hidden drill-through pages.
-* Core Insight: Revealed heavy product concentration risk, with DC Valves driving over 86% ($202B+) of total sales revenue.
+* Dataset:* 230,000+ sales records.
+* Key Features:* Row-Level Security (RLS), What-If parameters, automated refreshes, custom visual tooltips, and hidden drill-through pages.
+* Core Insight:* Revealed heavy product concentration risk, with DC Valves driving over 86% ($202B+) of total sales revenue.
+
+![Hydraulic Home Page](./Hydraulic%20Home%20Page.png)
+![Hydraulic Executive Analysis](./Hydraulic%20Executive%20Analysis.png)
 
 ---
 
@@ -17,6 +20,9 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 * Dataset: Multi-store retail performance data.
 * Key Features: External weather tracking, target gauges, waterfall profit distribution, and competitor price benchmarking.
 * Core Insight: Analyzed weather patterns against regional sales to help optimize seasonal inventory allocation.
+
+![Retailmart Home Page](./Retailmart%20Home%20Page.png)
+![Retailmart Executive Analysis](./Retailmart%20Executive%20Analysis.png)
 
 ---
 
