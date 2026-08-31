@@ -12,6 +12,8 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 
 ![Hydraulic Home Page](./Hydraulic%20Home%20Page.png)
 ![Hydraulic Executive Analysis](./Hydraulic%20Executive%20Analysis.png)
+![Hydraulic Operation Analysis](./Hydraulic%20Operation%20Analysis.png)
+
 
 ---
 
@@ -23,6 +25,7 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 
 ![Retailmart Home Page](./Retailmart%20Home%20Page.png)
 ![Retailmart Executive Analysis](./Retailmart%20Executive%20Analysis.png)
+![Retailmart Sales Analysis](./Retailmart%20Sales%20Analysis.png)
 
 ---
 
