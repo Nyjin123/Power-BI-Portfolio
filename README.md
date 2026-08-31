@@ -1,21 +1,10 @@
-[10:59 pm, 31/08/2026] nyjin2004: # Power BI Data Analytics Portfolio | Nyjin Abraham
+# Power BI Data Analytics Portfolio | Nyjin Abraham
 
 This repository contains two end-to-end Power BI projects focused on sales performance, customer analytics, and operational insights. Both solutions use Star Schema data modeling, custom DAX metrics, Row-Level Security (RLS), and interactive visuals designed for business decision-making.
 
 ---
 
-## Project 1: Hydraulic Sales Analysis
 
-* *Data Source & Stack:* 230,000+ sales records queried and structured using SQL (Oracle DB).
-* *Key Features:* Row-Level Security (RLS), What-If parameters, automated refreshes, custom visual tooltips, and hidden drill-through pages.
-* *Core Insight:* Revealed heavy product concentration risk, with DC Valves driving over 86% ($202B+) of total sales revenue.
-
-<img src="./Hydraulic…
-[11:04 pm, 31/08/2026] nyjin2004: # Power BI Data Analytics Portfolio | Nyjin Abraham
-
-This repository contains two end-to-end Power BI projects focused on sales performance, customer analytics, and operational insights. Both solutions use Star Schema data modeling, custom DAX metrics, Row-Level Security (RLS), and interactive visuals designed for business decision-making.
-
----
 
 ## Project 1: Hydraulic Sales Analysis
 
@@ -41,7 +30,8 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 <br/><br/>
 <img src="./Retailmart%20Executive%20Analysis.png" alt="Retailmart Executive Analysis" width="100%" />
 <br/><br/>
-<img src="./Retailmart-Sales-Analysis.png" alt="Retailmart Sales Analysis" width="100%" />
+<img width="1593" height="887" alt="Retailmart  Sales Analysis" src="https://github.com/user-attachments/assets/80cbd1f6-673e-41e9-8332-7e171ab449f6" />
+
 
 ---
 
