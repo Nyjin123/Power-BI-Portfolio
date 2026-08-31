@@ -25,7 +25,7 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 
 ![Retailmart Home Page](./Retailmart%20Home%20Page.png)
 ![Retailmart Executive Analysis](./Retailmart%20Executive%20Analysis.png)
-<img src="Retailmart Sales analysis.png" alt="Retailmart Sales Analysis" width="100%" />
+<img src="Retailmart Sales Analysis.png" alt="Retailmart Sales Analysis" width="100%" />
 
 ---
 
