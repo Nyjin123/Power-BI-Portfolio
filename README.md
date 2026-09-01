@@ -1,10 +1,8 @@
 # Power BI Data Analytics Portfolio | Nyjin Abraham
 
-This repository contains two end-to-end Power BI projects focused on sales performance, customer analytics, and operational insights. Both solutions use Star Schema data modeling, custom DAX metrics, Row-Level Security (RLS), and interactive visuals designed for business decision-making.
+This repository contains three end-to-end Power BI projects focused on sales performance, customer analytics, financial volatility, and operational insights. All solutions leverage Star Schema data modeling, custom DAX metrics, structured data pipelines, and interactive visuals designed for business decision-making.
 
 ---
-
-
 
 ## Project 1: Hydraulic Sales Analysis
 
@@ -30,14 +28,25 @@ This repository contains two end-to-end Power BI projects focused on sales perfo
 <br/><br/>
 <img src="./Retailmart%20Executive%20Analysis.png" alt="Retailmart Executive Analysis" width="100%" />
 <br/><br/>
-<img width="1593" height="887" alt="Retailmart  Sales Analysis" src="https://github.com/user-attachments/assets/80cbd1f6-673e-41e9-8332-7e171ab449f6" />
+<img src="./Retailmart%20Sales%20Analysis.png" alt="Retailmart Sales Analysis" width="100%" />
 
+---
+
+## Project 3: Bitcoin Executive & Technical Trends Analysis
+
+* Data Source & Stack: Python (Pandas) for ETL & time-series processing on 1,000,000+ data points -> Power BI.
+* Key Features: Multi-page reporting (Executive vs Technical), rolling moving averages, max drawdown %, ATH drop tracking, daily volatility %, and custom volume heatmaps.
+* Core Insight: Evaluated key price volatility and historical drawdown trends relative to peak highs across major market cycles.
+
+<img src="./Bitcoin%20Executive%20Analysis.png" alt="Bitcoin Executive Analysis" width="100%" />
+<br/><br/>
+<img src="./Bitcoin%20Technical%20Trends.png" alt="Bitcoin Technical Trends" width="100%" />
 
 ---
 
 ## Tech Stack & Skills
 
-* Database & Querying: SQL, Oracle Database, Power Query (ETL)
+* Database & Processing: SQL, Oracle Database, Python (Pandas), Power Query (ETL)
 * BI & Dashboards: Power BI Desktop, Power BI Service, Excel Integration
-* Data Modeling: DAX, Star Schema Architecture
+* Data Modeling: DAX, Star Schema Architecture, Time-Series Analysis
 * Security & Automation: Row-Level Security (RLS), Scheduled Data Refreshes
